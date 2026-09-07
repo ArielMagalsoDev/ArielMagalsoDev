@@ -33,7 +33,7 @@ I turn AI prototypes into dependable automation systems. My work combines LLM re
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 Provenance
+<h3><img src="https://provenance.arielmagalso.com/icon.svg" width="24" height="24" alt="Provenance logo" align="absmiddle"> Provenance</h3>
 
 **Verified RAG that shows its evidence**
 
@@ -52,7 +52,7 @@ Provenance answers from approved source documents, attaches sentence-level citat
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ LedgerGuard
+<h3><img src="https://ledgerguard.arielmagalso.com/static/icon.png" width="24" height="24" alt="LedgerGuard logo" align="absmiddle"> LedgerGuard</h3>
 
 **Controlled AI invoice review**
 
@@ -73,7 +73,7 @@ LedgerGuard extracts evidence from invoices, applies deterministic financial con
 <tr>
 <td width="50%" valign="top">
 
-### ⚖️ Verdict
+<h3><img src="https://verdict.arielmagalso.com/static/icon.png" width="24" height="24" alt="Verdict logo" align="absmiddle"> Verdict</h3>
 
 **Evidence-gated lead qualification**
 
