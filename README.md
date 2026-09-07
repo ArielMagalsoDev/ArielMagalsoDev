@@ -29,7 +29,7 @@ I turn AI prototypes into dependable automation systems. My work combines LLM re
 
 ## Featured systems
 
-<table>
+<table cellpadding="22" cellspacing="0">
 <tr>
 <td width="50%" valign="top">
 
@@ -107,6 +107,8 @@ Verdict verifies evidence before scoring, applies deterministic qualification ru
 </td>
 </tr>
 </table>
+
+<br>
 
 ## Core toolkit
 
